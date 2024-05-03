@@ -1,0 +1,16 @@
+Module : Kon Module e problem specifically
+Related Requirement
+Reproduction Path : Step of interaction jetarr jnno bug ta hoise 
+Test Data : Jei inoput er jnno bug ta paisi
+Expected Result : 
+Actual Result :  Jei buggy result ta ashche
+Severity : Kototuku serious bug ta ( High, Medium, Low )
+Status : Developer korbe not us 
+Test Environment :  Kon Hardware ba Platform e Software ta Running ( OS, Database, File Server, Host, Versionujj )
+Test Case Author : 
+Executed By : 
+Bug Reported By :
+Attachment : Maybe the Screenshot of the bug
+Remarks : 
+Version Number : 
+
